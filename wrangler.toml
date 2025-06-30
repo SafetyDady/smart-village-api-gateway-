@@ -1,4 +1,4 @@
-name = "smart-village-api-gateway"
+name = "smart-village"
 main = "src/index.js"
 compatibility_date = "2024-06-01"
 compatibility_flags = ["nodejs_compat"]
